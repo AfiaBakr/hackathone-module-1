@@ -1,6 +1,11 @@
 
 
 /* font family Gilroy */
+@font-face {
+  font-family: Inter;
+  src: url(fonts/Inter_18pt-Regular.ttf);
+}
+
 *{
     margin: 0px;
     box-sizing: border-box;
